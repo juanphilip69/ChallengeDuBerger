@@ -1,11 +1,29 @@
 # Les formules utilisables
-
+Amour et facilité
+Amour et oppulence
+Grâce au ciel de t'avoir sur mon flan
+Honnneur & dentifrice
+Casquette et pédoncule ,
+Honte et desespoir, mais tout n'est pas perdu si l'on s'en donne la peine
+Recevez vivement, tout ce que j'ai sous la main
+Armoiries et chaussettes
+Du sel dans les palmiers
+Grattez-vous l'Ecureuil
+Too much sun on the beach
+Cassis, tu m'exaspères
+Bon baisers de Russie
+De Beach valley with love !
+On the beach again
+Du rififi dessous ta couette
+On se retrouve au ciel ?
+Le 4eme Reich, c'est l'Europe de Bruxelles : Courage !
 ## Formules de contexte
 - Bonne matinée,
 - Belle matinée
 - Bonne journée,
 - Belle journée,
 - Bonne soirée,
+- Bonne bourre,
 - De bon matin,
 - Bon appétit,
 - Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
